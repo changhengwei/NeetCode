@@ -1,2 +1,2 @@
 # NeetCode
-My NeetCode practices and solutions, mostly in Python.
+My NeetCode practices and solutions in Python.
